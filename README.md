@@ -3,7 +3,7 @@
     <b>Hi there, I'm Edin!👋</b>
     <br>
     Software developer & tech creator.<br>
-    Founder of <a href="https://www.youtube.com/@senioredin">EDIN</a>.
+    Founder of <a href="https://www.youtube.com/@senioredin">{edin}</a>.
     <br>
     <br>
     I'm passionate about programming, that’s why<br>
